@@ -5,8 +5,8 @@
 void app_main(void)
 {
     char *ourTask=pcTaskGetName(NULL);
-    ESPLOGI(ourTask,"Hello starting up\n");
+    ESP_LOGI(ourTask,"Hello starting up\n");
     while (1){
-        ;;
+        vTaskDelay(1000);
     }
 }
