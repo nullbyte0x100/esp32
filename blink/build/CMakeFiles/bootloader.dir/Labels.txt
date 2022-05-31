@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/trevor/Desktop/esp-idf/projects/blink/build/CMakeFiles/bootloader
+/home/trevor/Desktop/esp-idf/projects/blink/build/CMakeFiles/bootloader.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/CMakeFiles/bootloader-complete.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/trevor/Desktop/esp-idf/projects/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
